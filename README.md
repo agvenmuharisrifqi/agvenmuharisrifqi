@@ -1,12 +1,17 @@
 # 💫 About Me:
-I'm currently working on PT. Trans F&B as Odoo Developer
+<h1 align="center">Hi 👋, I'm Agven Muharis Rifqi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Docker, Ansible,etc.**
+
+- 👨‍💻 All of my projects are available at [agvenmuharisrifqi.github.io](https://agvenmuharisrifqi.github.io/)
+
+- 📫 How to reach me **agven25@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/agvenmuharisrifqi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/agvenmuharisrifqi)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/@agven99) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Agven25@gmail.com) 
 
 # 💻 Tech Stack:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
@@ -52,9 +57,6 @@ I'm currently working on PT. Trans F&B as Odoo Developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=agvenmuharisrifqi&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agvenmuharisrifqi&icon=0&color=0)](https://visitcount.itsvg.in)
